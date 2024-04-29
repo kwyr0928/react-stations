@@ -8,7 +8,7 @@ import Header from './Header';
  * @type {() => JSX.Element}
  */
 export const App = () => {
- 
+  
   return (
     <div>
       <Header />
